@@ -1,0 +1,17 @@
+/*
+Theme Name: EESQ
+Theme URI:
+Version: 1.0.0
+Description: Created for EESQ by DesignMinds.
+Date: 24/01/15
+Author: Design Minds
+Author URI: http://designminds.com.au
+GitHub Theme URI: https://github.com/kurtwolff95/eesq
+GitHub Branch: master
+Tags: design, minds, designminds, EESQ
+*/
+@import url('styles/fonts.css');
+@import url('styles/myfontssource.css');
+/* Font stylesheet */
+@import url('styles/style.css');
+/*** GLOBAL : GENERAL STYLE DEFAULTS ***/

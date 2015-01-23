@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'CarbonSuper';
+    src: url('../fonts/carbon.woff');
+}
+@font-face {
+    font-family: 'Exo-Medium';
+    src: url('../fonts/Exo-Medium.woff');
+}
+@font-face {
+    font-family: 'Exo-Light';
+    src: url('../fonts/Exo-Light.woff');
+}
+@font-face {
+    font-family: 'Novecento_Wide_Light';
+    src: url('../fonts/synthview_-_novecento_sans_wide_light-webfont.woff');
+}
